@@ -1,4 +1,4 @@
-# EMPLOYEE_PROMOTION_:_A_DATA_DRIVEN_ANALYSIS
+# EMPLOYEE_PROMOTION : A_DATA_DRIVEN_ANALYSIS
 
 **Objective :** *To predict eligibility for an employee to be promoted or not.* 
 
