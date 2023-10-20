@@ -1,4 +1,4 @@
-# EMPLOYEE PROMOTION : A DATA DRIVEN ANALYSIS
+# DATA ANALYTICS IN HUMAN RESOURCES
 
 **Objective :** *To predict eligibility for an employee to be promoted or not.* 
 
